@@ -1,0 +1,151 @@
+
+#title{
+    background-color: #ff4c68;
+    padding: 3% 15%;
+    /* position: relative;    */
+}
+.navbar{
+    padding-bottom: 4rem;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: "Montserrt";
+}
+.nav-item{
+    padding: 0 20px;
+}
+.nav-link{
+    font-size: 1.5rem;
+    font-family: "Montserrat-light"
+}
+
+.title-header{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bolder;
+    color: #fff;
+}
+.iphone-image{
+    margin-left:30px;
+    position:absolute;
+    z-index:0;
+    transform: rotate(25deg);
+    width: 300px;
+    height: 600px;
+    
+}
+.mobile{
+    padding-left: 10%;
+}
+.download-button {
+    margin: 4% 2%;
+}
+
+#features{
+    padding: 7% 15%;
+    background-color: #fff;
+    position:relative;
+    z-index: 1;
+
+}
+.columns{
+    padding: 5%;
+    text-align: center;
+}
+#feauture-icons{
+    color: lightcoral;
+    padding-bottom: 4%;
+}
+#testimonials{
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.testimonial-text{
+    padding-bottom: 4%;
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 2.5rem;
+    line-height: 5rem;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.testimonial-image{
+    width: 15%;
+    border-radius: 100%;
+}
+
+#press{
+    text-align: center;
+    background-color: #ff4c68;
+    padding-bottom: 7%;
+}
+
+.press-images{
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 18%;
+}
+
+#pricing{
+    text-align: center;
+    padding: 3% 12%;
+}
+.pricing-head{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    padding-bottom: 2px;
+    
+}
+.pricing-line{
+    padding-bottom: 2%;
+}
+.pricing-column{
+    padding: 3% 18px;
+}
+.card-header{
+    font-weight: bold;
+}
+h2{
+    font-family: "Montserrat";
+    font-size: 2rem;
+}
+
+#cta{
+    background-color: #ff4c68;
+    padding: 4% 15%;
+    text-align: center;
+    color: white;
+}
+.cta-title{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.cta-button{
+    margin: 2% 1.5%;
+}
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+}
+.footer-icons{
+    padding: 0 1.5%;
+    padding-bottom: 3%;
+}
+
+.footer-links{
+    color: black;
+}
+
+.footer-links:hover{
+   color: #ff0000;
+}
+#feauture-icons:hover{
+    color: #ff4c68;
+}

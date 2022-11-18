@@ -1,0 +1,52 @@
+@media screen and (max-width:500px)
+{
+    #title{
+        text-align: center;
+        padding: 0% 0%;
+    }
+    .iphone-image{
+        position: static;
+        z-index: 0;
+        transform: rotate(0deg);
+        width: 200px;
+        height: 400px;
+        margin-left: 0px;
+    }
+    .mobile{
+        padding-left: 0%;
+        width: 250px;
+        margin: auto;
+    }
+    .container{
+        padding: 10%;
+    }
+    .navbar{
+        padding-bottom: 2rem;
+    }
+    .title-header{
+        font-size: 2rem;
+    }
+    .testimonial-text{
+        font-size: 1.5rem;
+        line-height: 2.5rem;
+    }
+    .press-images{
+        width: 25%;
+        padding-top: 5%;
+    }
+    .pricing-head{
+        font-size: 2rem;
+    }
+    .cta-title{
+        font-size: 1.5rem;
+        line-height: 2.5rem;
+    }
+    .cta-button{
+        padding: 2%;
+    }
+    .footer-icons{
+        padding: 0% 2%;
+        padding-bottom: 1rem;
+    }
+    
+}
